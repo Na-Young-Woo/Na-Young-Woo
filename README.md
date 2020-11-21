@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋!
 
 <!--
 **Na-Young-Woo/Na-Young-Woo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-->
 
-![Hits](https://hits.seeyoufarm.com/api/count/badge.svg?url=https%3A%2F%2Fgithub.com%2FNa-Young-Woo&count_bg=%23E4E4E4&title_bg=%232191FF&icon=rabbitmq.svg&icon_color=%23FFFB4C&title=NaYoung-WOO&edge_flat=false)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNa-Young-Woo&count_bg=%23E4E4E4&title_bg=%232191FF&icon=rabbitmq.svg&icon_color=%23FFFB4C&title=NaYoung-WOO&edge_flat=false)
